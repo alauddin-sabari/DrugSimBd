@@ -1,1 +1,1 @@
-# DrugSimBd is an app created by Azad Sir.
+# DrugSimBd is an application created by Azad Sir to find out drug similarity based multiple conditions.
